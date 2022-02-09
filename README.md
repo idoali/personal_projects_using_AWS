@@ -1,6 +1,6 @@
 # 🚧 **Project List**
 
-# 🤖 Hate Speech Classification Using AWS SageMaker Pipeline and HuggingFace Transformers
+## 🤖 Hate Speech Classification Using AWS SageMaker Pipeline and HuggingFace Transformers
 
 **Description**  
 
